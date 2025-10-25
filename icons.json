@@ -56,6 +56,21 @@
     },
     "_yml": {
       "iconPath": "icons/diy recipe.png"
+    },
+    "_lockfile": {
+      "iconPath": "icons/blue windflower plant.png"
+    },
+    "_pubspec": {
+      "iconPath": "icons/blue windflower.png"
+    },
+    "_dart": {
+      "iconPath": "icons/blue windflower.png"
+    },
+    "_metadata": {
+      "iconPath": "icons/turnip.png"
+    },
+    "_iml": {
+      "iconPath": "icons/spoiled turnips.png"
     }
   },
   "file": "_file",
@@ -82,7 +97,11 @@
     "env": "_env",
     "py": "_py",
     "tf": "_tf",
-    "yml": "_yml"
+    "yml": "_yml",
+    "yaml": "_yml",
+    "dart": "_dart",
+    "iml": "_iml"
+    
   },
   "fileNames": {
     ".vscodeignore": "_ignore",
@@ -94,7 +113,10 @@
     "package-lock.json": "_lock",
     "yarn.lock": "_lock",
     "env.example": "_env",
-    "env.local": "_env"
+    "env.local": "_env",
+    "pubspec.yaml": "_pubspec",
+    "pubspec.lock": "_lockfile",
+    ".metadata": "_metadata"
   },
   "languageIds": {
     "javascript": "_js",
