@@ -6,9 +6,9 @@
   "engines": {
     "vscode": "^1.65.0"
   },
-  "publisher": "angelenelm",
+  "publisher": "AirCactus500",
   "author": {
-    "name": "Angelene Manalo"
+    "name": "Air Cactus 500"
   },
   "icon": "icons/furniture.png",
   "categories": [
