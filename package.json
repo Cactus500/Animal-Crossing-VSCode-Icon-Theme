@@ -37,4 +37,7 @@
     "type": "git",
     "url": "https://github.com/angelenelm/Animal-Crossing-VSCode-Icon-Theme.git"
   }
+  "devDependencies": {
+    "vsce": "^3.0.0"
+  }
 }
