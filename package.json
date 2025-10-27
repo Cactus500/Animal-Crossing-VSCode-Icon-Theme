@@ -2,7 +2,7 @@
   "name": "animal-crossing-vscode-icon-theme",
   "displayName": "Animal Crossing VSCode Icon Theme",
   "description": "An Animal Crossing: New Horizons themed icon pack for VSCode!",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -27,8 +27,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "animal-crossing-file-icon-theme",
-        "label": "Animal Crossing File Icon Theme",
+        "id": "animal-crossing-file-icon-theme-with-flutter-support",
+        "label": "ACNH File Icon Theme",
         "path": "icons.json"
       }
     ]
