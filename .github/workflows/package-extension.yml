@@ -2,7 +2,7 @@ name: Package VS Code Extension
 
 on:
   push:
-    branches: [ main ]
+    branches: [ Cactus500-own-temporary-extension ]
 
 jobs:
   build:
